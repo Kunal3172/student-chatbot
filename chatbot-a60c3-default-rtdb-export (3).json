@@ -1,0 +1,682 @@
+{
+  "0": {
+    "1Student Name": "ABHINAV TYAGI",
+    "2Father Name": "ARVIND KUMAR",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118079,
+    "Student Id": 21011988
+  },
+  "1": {
+    "1Student Name": "ABHISHEK RANA",
+    "2Father Name": "KAMAL SINGH",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118099,
+    "Student Id": 21011438
+  },
+  "2": {
+    "1Student Name": "ADITYA GUPTA",
+    "2Father Name": "RAJEEV GUPTA",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE with ML & AI",
+    "6University Roll No": 2118133,
+    "Student Id": 210111297
+  },
+  "3": {
+    "1Student Name": "AKSHAT BANSAL",
+    "2Father Name": "VIJAY KUMAR BANSAL",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118173,
+    "Student Id": 21011887
+  },
+  "4": {
+    "1Student Name": "AKSHAY RATHOUR",
+    "2Father Name": "RAJIV RATHOUR",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118181,
+    "Student Id": 21021448
+  },
+  "5": {
+    "1Student Name": "ANJALI RAWAT",
+    "2Father Name": "P.S. RAWAT",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118231,
+    "Student Id": 21012630
+  },
+  "6": {
+    "1Student Name": "ANMOL SINGH",
+    "2Father Name": "SURENDRA SINGH",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118247,
+    "Student Id": 210111429
+  },
+  "7": {
+    "1Student Name": "ANUPAM RAWAT",
+    "2Father Name": "MADAN SINGH RAWAT",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118281,
+    "Student Id": 210111136
+  },
+  "8": {
+    "1Student Name": "ARPIT RAWAT",
+    "2Father Name": "SURAJ SINGH RAWAT",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118315,
+    "Student Id": 21011706
+  },
+  "9": {
+    "1Student Name": "ASHISH SINGH PANWAR",
+    "2Father Name": "VINOD SINGH",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118346,
+    "Student Id": 210111158
+  },
+  "10": {
+    "1Student Name": "AYUSH RANA",
+    "2Father Name": "JAGDISH SINGH RANA",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118417,
+    "Student Id": 21011467
+  },
+  "11": {
+    "1Student Name": "CHAHAK JAIN",
+    "2Father Name": "PAWAN KUMAR JAIN",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118458,
+    "Student Id": 21022279
+  },
+  "12": {
+    "1Student Name": "CHANDRESH BHANDARI",
+    "2Father Name": "KAVINDRA SINGH  BHANDARI",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118460,
+    "Student Id": 21011820
+  },
+  "13": {
+    "1Student Name": "DINESH SINGH MEHRA",
+    "2Father Name": "CHANDAN SINGH",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118522,
+    "Student Id": 21011673
+  },
+  "14": {
+    "1Student Name": "DIVYANSH BHADRA",
+    "2Father Name": "BIBHAKAR BHADRA",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118529,
+    "Student Id": 21011675
+  },
+  "15": {
+    "1Student Name": "DIVYANSH KUMAR SINGH",
+    "2Father Name": "SANTOSH KUMAR SINGH",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118534,
+    "Student Id": 210111423
+  },
+  "16": {
+    "1Student Name": "GAURANG PANT",
+    "2Father Name": "AJAY PANT",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118560,
+    "Student Id": 21011660
+  },
+  "17": {
+    "1Student Name": "GOURAV SEMWAL",
+    "2Father Name": "VISHNU DATT",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118581,
+    "Student Id": 21011883
+  },
+  "18": {
+    "1Student Name": "HARISH Rana",
+    "2Father Name": "SURAT SINGH RANA",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118593,
+    "Student Id": 21011677
+  },
+  "19": {
+    "1Student Name": "HARSHIT KHARAYAT",
+    "2Father Name": "RAM KHARAYAT",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118612,
+    "Student Id": 210111154
+  },
+  "20": {
+    "1Student Name": "HIMANSHU ADHIKARI",
+    "2Father Name": "BACHE SINGH",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118626,
+    "Student Id": 21011703
+  },
+  "21": {
+    "1Student Name": "HIMANSHU JOSHI",
+    "2Father Name": "R C JOSHI",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118631,
+    "Student Id": 21011747
+  },
+  "22": {
+    "1Student Name": "HRISHABH TIWARI",
+    "2Father Name": "SANJAY TIWARI",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118644,
+    "Student Id": 21011442
+  },
+  "23": {
+    "1Student Name": "JAYANTI DWIVEDI",
+    "2Father Name": "ANJANI PRASAD DUBEY",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118663,
+    "Student Id": 210121820
+  },
+  "24": {
+    "1Student Name": "KAJAL RAWAT",
+    "2Father Name": "MAHIPAL SINGH",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118668,
+    "Student Id": 21012161
+  },
+  "25": {
+    "1Student Name": "KARTIK RINGOLA",
+    "2Father Name": "SANJAY KUMAR",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118683,
+    "Student Id": 21011539
+  },
+  "26": {
+    "1Student Name": "KARTIK YADAV",
+    "2Father Name": "TIRATH YADAV",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118687,
+    "Student Id": 21011198
+  },
+  "27": {
+    "1Student Name": "KISHOR NEGI",
+    "2Father Name": "MOHAN SINGH NEGI",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118708,
+    "Student Id": 210111240
+  },
+  "28": {
+    "1Student Name": "KOMAL BISHT",
+    "2Father Name": "SURENDRA SINGH",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118709,
+    "Student Id": 21012957
+  },
+  "29": {
+    "1Student Name": "KRITIKA",
+    "2Father Name": "NANDAN SINGH",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118717,
+    "Student Id": 210121382
+  },
+  "30": {
+    "1Student Name": "LOKIK PANDEY",
+    "2Father Name": "KISHOR KUMAR PANDEY",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118737,
+    "Student Id": 21011682
+  },
+  "31": {
+    "1Student Name": "MAAHI PAL",
+    "2Father Name": "PAWAN KUMAR",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118739,
+    "Student Id": 21012302
+  },
+  "32": {
+    "1Student Name": "MAHI PANDEY",
+    "2Father Name": "NARESH PANDEY",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118743,
+    "Student Id": 21012107
+  },
+  "33": {
+    "1Student Name": "MANSI PAL",
+    "2Father Name": "JAIPAL SINGH",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118767,
+    "Student Id": 21012956
+  },
+  "34": {
+    "1Student Name": "MAYANK DWIVEDI",
+    "2Father Name": "SATISH CHANDRA DWIVEDI",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118779,
+    "Student Id": 21011710
+  },
+  "35": {
+    "1Student Name": "MEHUL BHATT",
+    "2Father Name": "SANJAY BHATT",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118790,
+    "Student Id": 21011518
+  },
+  "36": {
+    "1Student Name": "NAIVAIDYA NEGI",
+    "2Father Name": "DEVENDRA SINGH NEGI",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118817,
+    "Student Id": 21011708
+  },
+  "37": {
+    "1Student Name": "NIDHI PAL",
+    "2Father Name": "TILAK RAM PAL",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118831,
+    "Student Id": 210121379
+  },
+  "38": {
+    "1Student Name": "NILESH BHANOT",
+    "2Father Name": "SURENDER BHANOT",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118851,
+    "Student Id": 21011040
+  },
+  "39": {
+    "1Student Name": "NITIN PANWAR",
+    "2Father Name": "PYAR SINGH PANWAR",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118859,
+    "Student Id": 210111324
+  },
+  "40": {
+    "1Student Name": "PIYUSH NAUTIYAL",
+    "2Father Name": "GOPI KRISHNA NAUTIYAL",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118891,
+    "Student Id": 21011952
+  },
+  "41": {
+    "1Student Name": "PRADEEP PATNI",
+    "2Father Name": "HEM CHANDRA PATNI",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118899,
+    "Student Id": 210111047
+  },
+  "42": {
+    "1Student Name": "PRERANA",
+    "2Father Name": "ANIL JOSHI",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118930,
+    "Student Id": 210121269
+  },
+  "43": {
+    "1Student Name": "PRIYANKA BANI",
+    "2Father Name": "PREM SINGH",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118937,
+    "Student Id": 210121198
+  },
+  "44": {
+    "1Student Name": "RAHUL KARKI",
+    "2Father Name": "GOPAL SINGH",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118977,
+    "Student Id": 210111061
+  },
+  "45": {
+    "1Student Name": "RAHUL KATHAYAT",
+    "2Father Name": "NARENDRA SINGH",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2118978,
+    "Student Id": 21021610
+  },
+  "46": {
+    "1Student Name": "RAMESHWARI KAPOOR",
+    "2Father Name": "SHYAM KAPOOR",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119003,
+    "Student Id": 21012665
+  },
+  "47": {
+    "1Student Name": "RASESH Arjun SINGH",
+    "2Father Name": "ARJUN SINGH",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119005,
+    "Student Id": 210111049
+  },
+  "48": {
+    "1Student Name": "RASHMI KULIYAL",
+    "2Father Name": "MANOJ KULIYAL",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119006,
+    "Student Id": 210121819
+  },
+  "49": {
+    "1Student Name": "RISHABH BHANDARI",
+    "2Father Name": "PRAVEEN SINGH BHANDARI",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119014,
+    "Student Id": 21011865
+  },
+  "50": {
+    "1Student Name": "SACHIN KUMAR SINGH",
+    "2Father Name": "SANTOSH KUMAR SINGH",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119070,
+    "Student Id": 210111339
+  },
+  "51": {
+    "1Student Name": "SAGAR",
+    "2Father Name": "RAM SAROOP",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119071,
+    "Student Id": 21011949
+  },
+  "52": {
+    "1Student Name": "SANIYA MEHRA",
+    "2Father Name": "KARAM SINGH MEHRA",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119113,
+    "Student Id": 21012491
+  },
+  "53": {
+    "1Student Name": "SANSKAR AGGARWAL",
+    "2Father Name": "KAMAL AGGARWAL",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119116,
+    "Student Id": 21011852
+  },
+  "54": {
+    "1Student Name": "SATYAM KAPRI",
+    "2Father Name": "JEEVAN CHANDRA KAPRI",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119137,
+    "Student Id": 210111347
+  },
+  "55": {
+    "1Student Name": "SAUMYA BAGRI",
+    "2Father Name": "RAJESH BAGRI",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119140,
+    "Student Id": 210121467
+  },
+  "56": {
+    "1Student Name": "SHASHANK GOYAL",
+    "2Father Name": "PANKAJ GOYAL",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119159,
+    "Student Id": 21011356
+  },
+  "57": {
+    "1Student Name": "SHUBHAM NAUDIYAL",
+    "2Father Name": "N K NAUDIYAL",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119228,
+    "Student Id": 210111146
+  },
+  "58": {
+    "1Student Name": "SHUBHAM RANA",
+    "2Father Name": "BISHAN SINGH",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119230,
+    "Student Id": 21011943
+  },
+  "59": {
+    "1Student Name": "SUJAL GUPTA",
+    "2Father Name": "AJAY KUMAR GUPTA",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119291,
+    "Student Id": 21021498
+  },
+  "60": {
+    "1Student Name": "SUJATA BIJALWAN",
+    "2Father Name": "SUNIL BIJALWAN",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119293,
+    "Student Id": 210121823
+  },
+  "61": {
+    "1Student Name": "SUMIT NAUTIYAL",
+    "2Father Name": "SATYA PRASAD NAUTIYAL",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119300,
+    "Student Id": 21011755
+  },
+  "62": {
+    "1Student Name": "SUMIT SINGH PAYAL",
+    "2Father Name": "ATAR SINGH PAYAL",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119304,
+    "Student Id": 21011623
+  },
+  "63": {
+    "1Student Name": "TARUN PUROHIT",
+    "2Father Name": "BAL KRISHAN PUROHIT",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119337,
+    "Student Id": 210111505
+  },
+  "64": {
+    "1Student Name": "TUSHAR PURI",
+    "2Father Name": "NITIN PURI",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119346,
+    "Student Id": 21011384
+  },
+  "65": {
+    "1Student Name": "UMA BISHT",
+    "2Father Name": "DIWAN SINGH BISHT",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119364,
+    "Student Id": 210121283
+  },
+  "66": {
+    "1Student Name": "VIDUSHI RAWAT",
+    "2Father Name": "CHITRANJAN SINGH RAWAT",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119413,
+    "Student Id": 210121006
+  },
+  "67": {
+    "1Student Name": "VISHWAS MALIK",
+    "2Father Name": "PRAVEEN MALIK",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119434,
+    "Student Id": 21011928
+  },
+  "68": {
+    "1Student Name": "YOGESH JOSHI",
+    "2Father Name": "MR.GIRISH CHANDRA JOSHI",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119457,
+    "Student Id": 210111139
+  },
+  "69": {
+    "1Student Name": "ZAINAB HAIDER KHAN",
+    "2Father Name": "ZULFEQUAR AHMAD KHAN",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2119465,
+    "Student Id": 21012581
+  },
+  "70": {
+    "1Student Name": "ANURAG PANT",
+    "2Father Name": "BIJENDRA PRASHAD PANT",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": "",
+    "Student Id": 22011020
+  },
+  "71": {
+    "1Student Name": "SANDEEP KAINTURA",
+    "2Father Name": "ARJUN SINGH KAINTURA",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": "",
+    "Student Id": 22011019
+  },
+  "72": {
+    "1Student Name": "SIDDHANT THAPA",
+    "2Father Name": "NAVEEN THAPA",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": "",
+    "Student Id": 22011678
+  },
+  "73": {
+    "1Student Name": "SAMARTH BALUNI",
+    "2Father Name": "RAKESH SHARMA",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": "",
+    "Student Id": 220112623
+  },
+  "74": {
+    "1Student Name": "DEEPAK",
+    "2Father Name": "BASANT BALLABH",
+    "3Section": "A",
+    "4Semester": 4,
+    "5Branch": "CSE",
+    "6University Roll No": 2161124,
+    "Student Id": 21011445
+  },
+  "initial": [
+    null,
+    "Hello!",
+    "Tell me Student id about which I can give you more information"
+  ]
+}
